@@ -1,0 +1,3 @@
+﻿  MyForm.cpp
+MyForm.cpp(10): warning C4551: wywołaniu funkcji brakuje listy argumentów
+  Stoper.vcxproj -> C:\Users\dagor\Desktop\nauka\KURSY\C++ od zera do bohatera\VS\Stoper\Debug\Stoper.exe
